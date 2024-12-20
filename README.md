@@ -1,1 +1,1 @@
-# vinsk0h.info
+#vinsk0h.github.io
