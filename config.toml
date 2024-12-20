@@ -1,53 +1,18 @@
-[[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
+baseURL = "https://vinsk0h.github.io/"
+languageCode = "en-us"
+title = "vinsk0h's safezone"
+theme = "m10c"
 
+[params]
+  author = "Vincent Mauté"
+  description = "A blog about all things IT/infoSec"
 
-  [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
-  # show selector to switch language
-  showLanguageSelector = false
-  # set theme to full screen width
-  fullWidthTheme = false
-  # center theme with default width
-  centerTheme = true
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
-  description = "Cyber Security :: Capture The Flag Writeups :: Hacking"
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/vinsk0h"
 
-[Social]
-  twitter = "vinsk0h"
-
-[languages]
-  [languages.en.params]
-    languageName = "English"
-    title = "vinsk0h"
-    subtitle = "Cyber Security :: Writeups CTF"
-    keywords = ""
-    copyright = "© Vincent Mauté"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "> cd ~"
-      logoHomeLink = "/"
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About Me"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags"
-      [[languages.en.menu.main]]
-        identifier = "all posts"
-        name = "All Posts"
-        url = "/all-posts"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/vinsk0h"
