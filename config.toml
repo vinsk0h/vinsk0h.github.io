@@ -5,7 +5,7 @@ theme = "m10c"
 
 [params]
   author = "Vincent Mauté"
-  description = "A blog about all things IT/infoSec"
+  description = "A blog about all things IT/infoSec."
 
   [[params.social]]
     icon = "github"
