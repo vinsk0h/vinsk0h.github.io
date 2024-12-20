@@ -1,5 +1,0 @@
-baseURL = 'https://vinsk0h.github.io/'
-languageCode = 'en-us'
-title = 'vinks0h'
-
-theme = "hugo-theme-m10c"
