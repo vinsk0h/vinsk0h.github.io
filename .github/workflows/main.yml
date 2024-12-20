@@ -16,7 +16,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.HUGO }}
-          external_repository: vinsk0h/xyz.github.io
+          external_repository: vinsk0h/vinsk0h.github.io
           publish_dir: ./public
           keep_files: true
           user_name: vinsk0h
