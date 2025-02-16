@@ -1,43 +1,27 @@
-# Chirpy Starter
+# Hello, I'm Vincent
+<a href="https://www.linkedin.com/in/vincent-maute/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## 👋 What's my story?
+- I was always a person who was very hard to keep the interest in something for more than a month. 
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+- 🔥 After wasting quite a bit of time procrastinating, I realized that I had wasted way too much time spending all my time on video games.... I thought it was high time to take action
+## Objective
+I've set myself a clear objective: to progress in cybersecurity and build up my skills, step by step. I want to deepen my knowledge of defense, forensics and threat hunting, while continuing to take certifications to validate my learning. But beyond diplomas, what drives me is discovery and challenge. I love digging, understanding, analyzing... and if I can share my experiences and help others to move forward, that's even better. The aim is to learn while having fun, without taking myself too seriously!
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Certifications
+<div>
+    
+#### **⌛ In progress**
+<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+#### **✅ Completed**
+<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white"/>
+<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white"/>
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+</div>
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Projects
+- Interactif Playbook (playDFIR)  *⏳ in progress*
 
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🔗 Follow me
+🐦 Twitter: [@vinsk0h](https://twitter.com/vinsk0h)
