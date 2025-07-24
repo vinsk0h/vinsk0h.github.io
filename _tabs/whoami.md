@@ -1,5 +1,4 @@
 ---
-categories: [Whoami]
 icon: fas fa-user
 order: 3
 tags: [TAG]     # TAG names should always be lowercase
@@ -26,17 +25,11 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 
 ## Certifications
 
-    
-
 #### ⏳ In Progress  
-
-[![CySa+ Badge](https://img.shields.io/badge/-CySA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/en/certifications/cybersecurity-analyst/)
+[![CySA+ Badge](https://img.shields.io/badge/-CySA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/en/certifications/cybersecurity-analyst)
 
 #### ✅ Completed  
-
-
-[![BTL1 Badge](https://img.shields.io/badge/-BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1)
-
+[![BTL1 Badge](https://img.shields.io/badge/-BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1)  
 [![ITIL v3 Badge](https://img.shields.io/badge/-ITIL%20v3%20Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
 
 
