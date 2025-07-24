@@ -168,6 +168,7 @@ kramdown:
 
 collections:
   tabs:
+    enabled: true
     output: true
     sort_by: order
 
