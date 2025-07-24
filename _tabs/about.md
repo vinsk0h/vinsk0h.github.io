@@ -1,5 +1,5 @@
 ---
-layout: whoami
+title: whoami
 icon: fas fa-user
 order: 3
 ---
