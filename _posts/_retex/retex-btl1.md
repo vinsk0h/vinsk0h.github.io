@@ -2,7 +2,7 @@
 title: Retex-BTL1
 date: 2025-07-24
 categories: [retex]
-tags: [retex]     # TAG names should always be lowercase
+tags: [BlueTeam, BTL1, retex]     # TAG names should always be lowercase
 ---
 
 
