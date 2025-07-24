@@ -1,7 +1,8 @@
-
 ---
-title: "About"
-permalink: /about/
+title: "about"
+icon: fas fa-user
+order: 1
+
 ---
 
 # Hello, I'm Vincent
