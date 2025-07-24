@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 🛡️vinsk0h.info:~$ # the main title
+title: vinsk0h.info:~$ # the main title
 
 tagline: Lambda ninja of rank B, determined to integrate the Akatsuki. # it will display as the subtitle
 
@@ -171,6 +171,12 @@ collections:
     enabled: true
     output: true
     sort_by: order
+    permalink: /tabs/:title/
+  retex:
+    output: true
+    sort_by: date
+    permalink: /retex/:title/
+
 
 defaults:
   - scope:
@@ -193,6 +199,11 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: retex
+    values:
+      layout: post
 
 sass:
   style: compressed

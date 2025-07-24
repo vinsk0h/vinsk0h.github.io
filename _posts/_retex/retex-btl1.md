@@ -1,0 +1,105 @@
+---
+title: Retex-BTL1
+date: 2025-07-24
+categories: [retex]
+tags: [retex]     # TAG names should always be lowercase
+---
+
+
+<div style="text-align: center;">
+    <img src="https://images.credly.com/images/2b5b2398-95a9-48ba-bae8-f72e585c824f/twitter_thumb_201604_advisor.png" alt="btl1" width="200">
+</div>
+
+### Introduction
+
+I'm a SysAdmin for several years now, I was looking for my first cybersecurity certification, which would give me at least one foot in the door. Having received some very positive feedback from my acquaintances on this certification, I decided to go for it.
+
+And I have no regrets... I recommend this certification.
+
+### 🤔 What is Blue Team Level One ?
+
+Blue Team Level One is a fairly recent certification released in 2020 by [Security Blue Team](https://securityblue.team/), and is becoming increasingly popular.
+
+A few figures on certification :
+
+* 330+ Lessons, Videos, Activities and Quizzes
+    
+* 23 LABS (100 hours of use)
+    
+* 4 months on-demand access to the training material
+    
+* £399 GBP (Training + **2 Exam vouchers**)
+    
+
+Each domain has several labs that you can use to practice and redo several times if you wish.
+
+The six domains covered are shown below :
+
+1. Security Fundamentals
+    
+2. Phishing Analysis
+    
+3. Threat Intelligence
+    
+4. Digital Forensics
+    
+5. Security Information and Event Monitoring
+    
+6. Incident Response
+    
+
+One of the modules also covers the fundamentals of safety, which are a prerequisite for taking the course.
+
+> [Syllabus BlueTeam Level One](https://securityblue.team/download/46322/)
+
+### 🎓 And what about the exam ?
+
+The exam lasts 24 hours, you'll be given a series of 20 questions to answer and **you won't have to write a report**. You'll need to pass your exam with at least 70% to be eligible.
+
+Be careful not to underestimate the exam, I went through all the LABS in the course and still encountered a few hurdles during the exam.
+
+Once you've submitted your exam, you'll get the answer **IMMEDIATELY**, as well as feedback on your wrong answers. You will have to wait 10 days if you wish to use your second voucher.
+
+The exam takes the form of a scenario based on a real case where a company appears to have been compromised by malicious actors. It's up to you to find out the truth, and how they did it.
+
+### 💡 Tips ?
+
+I recommend that you are comfortable with log analysis and the use of a SIEM. If you want to be well prepared on the use of SIEM I invite you to make [**Boss Of The SOC v1**](https://bots.splunk.com/event/3oQ7sqI5bajOCP43o0svqT/detail)
+
+To all French people, you can finance your BTL1 with your famous CPF through Alphorm (mention that you come from [@Hamza](https://twitter.com/kondah_ha)). The process is a little long (1-2 months) but it will allow you to save your money and use your balance.
+
+### 📚 Ressources
+
+[Cyberdefenders](https://cyberdefenders.org/) :
+
+In my opinion, it's the best platform for practicing blue team skills. It can be compared to TryHackMe and HackTheBox for practicing red team skills.
+
+They offer free challenges and Labs for the PRO version.
+
+[Blue Team Labs Online](https://blueteamlabs.online/home) :
+
+A platform similar to Cyberdefender but created by Security Blue Team, the Investigations is very similar to the BTL1 exam format.
+
+[LetsDefend](https://letsdefend.io/)
+
+LetsDefend is also a platform for practicing and improving skills on the blue team side. On the practical side, Letsdefend uses real cyberattacks to get as close as possible to reality.
+
+### 🙏 Acknowledgment:
+
+A big thank you to all of you who have motivated, inspired :
+
+* My brother [z4nzi](https://twitter.com/drummingcrisps)
+    
+* [Hamza](https://twitter.com/kondah_ha) (from Alphorm)
+    
+* [Dysnome](https://dysnome.eu/) (For all his invaluable advice)
+    
+* [Mudpak](https://twitter.com/_mudpak) (Thank you for sharing your motivation and mindset with me)
+    
+* And the entire [HackTheBox France community](https://www.meetup.com/fr-FR/hack-the-box-meetup-france/), run by the wonderful Euz, who organizes free Meetups open to all.
+    
+
+
+<div style="text-align: center;">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688565398103/f492c1f8-1233-4906-a799-9f50a0bfab42.png" alt="btl1" width="600">
+</div>
