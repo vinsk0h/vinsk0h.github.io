@@ -1,4 +1,5 @@
 ---
+layout: retex
 title: Retex-BTL1
 date: 2025-07-24
 categories: [retex]
