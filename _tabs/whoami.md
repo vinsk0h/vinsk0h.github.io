@@ -17,7 +17,7 @@ tags: [TAG]     # TAG names should always be lowercase
 
 
 ## 👋 What's my story?
-- I was always a person who was very hard to keep the interest in something for more than a month. 
+- I've always been someone with a wide range of interests, which often led me to explore many different things rather than sticking to just one for a long time.
 
 - 🔥 After wasting quite a bit of time procrastinating, I realized that I had wasted way too much time spending all my time on video games.... I thought it was high time to take action
 ## Objective
@@ -28,11 +28,11 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
     
 
 #### ⏳ In Progress  
-![CompTIA Badge](https://img.shields.io/badge/CySA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
+<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 #### ✅ Completed  
-![BTL1 Badge](https://img.shields.io/badge/BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)  
-![ITIL Badge](https://img.shields.io/badge/ITIL_v3_Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)
+<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white"/>
+<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white"/>
 
 
 </div>
