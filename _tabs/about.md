@@ -1,4 +1,9 @@
 
+---
+title: "About"
+permalink: /about/
+---
+
 # Hello, I'm Vincent
 <p align="center">
   <img src="https://i.pinimg.com/736x/8c/97/d8/8c97d8f65e34426d07847ac4f24cfd3c.jpg" alt="Vincent" width="200"/>
