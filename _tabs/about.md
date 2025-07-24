@@ -1,8 +1,11 @@
 ---
-title: whoami
+title: Whoami
+categories: [about]
 icon: fas fa-user
 order: 3
+tags: [TAG]     # TAG names should always be lowercase
 ---
+
 
 # Hello, I'm Vincent
 <p align="center">
@@ -11,7 +14,8 @@ order: 3
 
 <image>
 
-<a href="https://www.linkedin.com/in/vincent-maute/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 ## 👋 What's my story?
 - I was always a person who was very hard to keep the interest in something for more than a month. 
@@ -24,11 +28,13 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 <div>
     
 #### **⌛ In progress**
-<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+![CompTIA Badge](https://img.shields.io/badge/CySA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
 
 #### **✅ Completed**
-<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white"/>
-<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white"/>
+
+![BTL1 Badge](https://img.shields.io/badge/BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)
+
+![ITIL Badge](https://img.shields.io/badge/ITIL_v3_Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)
 
 </div>
 
