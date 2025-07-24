@@ -25,7 +25,7 @@ tags: [TAG]     # TAG names should always be lowercase
 I've set myself a clear objective: to progress in cybersecurity and build up my skills, step by step. I want to deepen my knowledge of defense, forensics and threat hunting, while continuing to take certifications to validate my learning. But beyond diplomas, what drives me is discovery and challenge. I love digging, understanding, analyzing... and if I can share my experiences and help others to move forward, that's even better. The aim is to learn while having fun, without taking myself too seriously!
 
 ## Certifications
-<div>
+
     
 
 #### ⏳ In Progress  
@@ -39,7 +39,7 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 [![ITIL v3 Badge](https://img.shields.io/badge/-ITIL%20v3%20Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
 
 
-</div>
+
 
 ## Projects
 - Interactif Playbook (playDFIR)  *⏳ in progress*
