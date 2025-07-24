@@ -13,7 +13,7 @@ tags: [TAG]     # TAG names should always be lowercase
   <img src="https://i.pinimg.com/736x/8c/97/d8/8c97d8f65e34426d07847ac4f24cfd3c.jpg" alt="Vincent" width="200">
 </div>
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 ## 👋 What's my story?
@@ -28,11 +28,13 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
     
 
 #### ⏳ In Progress  
-<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySa+" />
+
+![CySa+ Badge](https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
 
 #### ✅ Completed  
-<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white" alt="BTL1" />
-<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white" alt="ITIL v3" />
+
+![CySa+ BTL1](https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white)
+![ITIL V3 Badge](https://img.shields.io/badge/ITIL%20v3%20Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)
 
 
 </div>
@@ -42,3 +44,5 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 
 ## 🔗 Follow me
 🐦 Twitter: [@vinsk0h](https://twitter.com/vinsk0h)
+
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
