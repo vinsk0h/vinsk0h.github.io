@@ -1,6 +1,6 @@
 ---
 title: Whoami
-categories: [about]
+categories: [Whoami]
 icon: fas fa-user
 order: 3
 tags: [TAG]     # TAG names should always be lowercase
