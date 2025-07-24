@@ -8,9 +8,10 @@ tags: [TAG]     # TAG names should always be lowercase
 
 
 # Hello, I'm Vincent
-<p align="center">
-  <img src="https://i.pinimg.com/736x/8c/97/d8/8c97d8f65e34426d07847ac4f24cfd3c.jpg" alt="Vincent" width="200"/>
-</p>
+
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/736x/8c/97/d8/8c97d8f65e34426d07847ac4f24cfd3c.jpg" alt="Vincent" width="200">
+</div>
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -25,14 +26,14 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 ## Certifications
 <div>
     
-#### **⌛ In progress**
+
+#### ⏳ In Progress  
 ![CompTIA Badge](https://img.shields.io/badge/CySA+-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
 
-#### **✅ Completed**
-
-![BTL1 Badge](https://img.shields.io/badge/BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)
-
+#### ✅ Completed  
+![BTL1 Badge](https://img.shields.io/badge/BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)  
 ![ITIL Badge](https://img.shields.io/badge/ITIL_v3_Foundation-4D4D4D?style=for-the-badge&logo=Axelos&logoColor=white)
+
 
 </div>
 
