@@ -28,11 +28,11 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
     
 
 #### ⏳ In Progress  
-<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySa+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySa+" />
 
 #### ✅ Completed  
-<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white"/>
-<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white"/>
+<img src="https://img.shields.io/badge/-BTL1-007ACC?&style=for-the-badge&logo=SBT&logoColor=white" alt="BTL1" />
+<img src="https://img.shields.io/badge/ITIL v3 Foundtation-4D4D4D?&style=for-the-badge&logo=Axelos&logoColor=white" alt="ITIL v3" />
 
 
 </div>
