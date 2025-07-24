@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: whoami
 icon: fas fa-user
-order: 1
+order: 3
 ---
 
 # Hello, I'm Vincent
