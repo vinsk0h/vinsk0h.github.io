@@ -1,9 +1,6 @@
 ---
-layout: retex
-icon: fas fa-archive
+layout: category
+title: Retex
+icon: fas fa-book
 order: 2
 ---
-
-{% for post in site.retex %}
-  {% include post-list.html %}
-{% endfor %}

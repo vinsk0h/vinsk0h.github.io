@@ -1,5 +1,6 @@
 ---
-layout: 📝 Write-ups
-icon: fas fa-stream
+layout: page
+title: Writeups
+icon: fas fa-pen-nib
 order: 1
 ---

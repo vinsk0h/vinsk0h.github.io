@@ -176,18 +176,20 @@ collections:
     output: true
     sort_by: date
     permalink: /retex/:title/
+  writeups:
+    output: true
+    sort_by: date
+    permalink: /writeups/:title/
 
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: ""
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
-      toc: true # Display TOC column in posts.
-      # DO NOT modify the following parameter unless you are confident enough
-      # to update the code of all other post links in this project.
+      comments: true
+      toc: true
       permalink: /posts/:title/
   - scope:
       path: _drafts
@@ -202,6 +204,11 @@ defaults:
   - scope:
       path: ""
       type: retex
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: writeups
     values:
       layout: post
 
