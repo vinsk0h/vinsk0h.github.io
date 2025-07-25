@@ -1,6 +1,6 @@
 ---
-layout: page
+#layout: page
 title: Writeups
-icon: fas fa-pen-nib
-order: 1
+icon: fa-regular fa-pen-to-square
+order: 2
 ---
