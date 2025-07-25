@@ -1,6 +1,6 @@
 ---
 layout: categories
 icon: fas fa-stream
-permalink: /categories-tab/
+permalink: /categories/
 order: 3
 ---
