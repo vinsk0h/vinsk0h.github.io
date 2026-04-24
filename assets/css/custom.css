@@ -1,4 +1,17 @@
 /* ============================================================
+   Sidebar — avatar profile image
+   #avatar has overflow: hidden + border-radius via .rounded-circle.
+   Change fill → contain so the full image is visible inside the circle.
+   ============================================================ */
+
+#avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background-color: transparent;
+}
+
+/* ============================================================
    Post page — banner image
    Theme default: .preview-img { aspect-ratio: 40/21; width: 100%; height: 100% }
    Selector: img.preview-img inside article .post-meta (post layout only)

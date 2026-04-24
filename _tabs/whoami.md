@@ -28,7 +28,7 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 ## Certifications
 
 #### ⏳ In Progress  
-[![CDSA](https://img.shields.io/badge/CDSA-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/academy/paths)
+[![CDSA](https://img.shields.io/badge/CDSA-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 
 #### ✅ Completed  
 [![BTL1 Badge](https://img.shields.io/badge/-BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1)
