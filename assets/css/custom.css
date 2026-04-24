@@ -102,7 +102,8 @@ article .post-meta .preview-img {
   flex-direction: row !important;
   align-items: center !important;
   flex-wrap: nowrap !important;
-  gap: 0;
+  justify-content: flex-start !important;
+  gap: 0 !important;
 }
 
 #post-list .card .preview-img {
@@ -114,13 +115,15 @@ article .post-meta .preview-img {
   aspect-ratio: unset !important;
   object-fit: contain !important;
   border-radius: 8px !important;
+  margin-right: 12px !important;
 }
 
 #post-list .card .post-preview > :not(.preview-img) {
   flex: 1 !important;
   max-width: 100% !important;
   width: auto !important;
-  padding-left: 12px !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 #post-list .card .card-body {
