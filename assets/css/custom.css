@@ -114,6 +114,9 @@ article .post-meta .preview-img {
   max-width: 100px !important;
   padding: 0 !important;
   margin-right: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
 }
 
 /* Image itself */
@@ -121,6 +124,7 @@ article .post-meta .preview-img {
   width: 80px !important;
   height: 80px !important;
   object-fit: contain !important;
+  object-position: center !important;
   display: block !important;
   border-radius: 8px !important;
 }
