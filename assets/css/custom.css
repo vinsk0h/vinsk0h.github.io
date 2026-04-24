@@ -96,12 +96,15 @@
    ============================================================ */
 
 article .post-meta .preview-img {
-  width: 100%;
+  max-width: 400px;
+  max-height: 400px;
+  width: auto;
   height: auto;
   object-fit: contain;
   background: transparent;
   aspect-ratio: unset !important;
   display: block;
+  margin: 0 auto;
 }
 
 /* ============================================================
