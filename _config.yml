@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pm1.aminoapps.com/6862/932307fb3cdebb548bbf886d1d86df6ef445c63br1-318-500v2_hq.jpg
+avatar: https://i.pinimg.com/originals/c2/84/c5/c284c5157e7d51fa284d92609fb0a4a4.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

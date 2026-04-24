@@ -26,7 +26,7 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 ## Certifications
 
 #### ⏳ In Progress  
-[![CySA+ Badge](https://img.shields.io/badge/-CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/en/certifications/cybersecurity-analyst)
+[![CDSA](https://img.shields.io/badge/CDSA-007ACC?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/academy/paths)
 
 #### ✅ Completed  
 [![BTL1 Badge](https://img.shields.io/badge/-BTL1-007ACC?style=for-the-badge&logo=SBT&logoColor=white)](https://www.securityblue.team/certifications/blue-team-level-1)
@@ -34,9 +34,8 @@ I've set myself a clear objective: to progress in cybersecurity and build up my 
 
 
 
-
 ## Projects
-- Interactif Playbook (playDFIR)  *⏳ in progress*
+- ⏳ **KQLVault** is a detection management platform for SOC teams, designed to centralize, organize, and enrich KQL queries
 
 ## 🔗 Follow me
 🐦 Twitter: [@vinsk0h](https://twitter.com/vinsk0h)
