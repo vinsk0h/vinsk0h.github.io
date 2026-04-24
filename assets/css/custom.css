@@ -102,7 +102,7 @@ article .post-meta .preview-img {
   flex-direction: row !important;
   align-items: center !important;
   flex-wrap: nowrap !important;
-  gap: 16px;
+  gap: 0;
 }
 
 #post-list .card .preview-img {
@@ -120,6 +120,7 @@ article .post-meta .preview-img {
   flex: 1 !important;
   max-width: 100% !important;
   width: auto !important;
+  padding-left: 12px !important;
 }
 
 #post-list .card .card-body {
