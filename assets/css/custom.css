@@ -75,22 +75,7 @@
 }
 
 /* ============================================================
-   Home post list — card padding + alignment
-   Theme default: card-body { height: 100%; padding: 1rem }
-                  desktop:  { padding: 1.75rem 1.75rem 1.25rem }
-   ============================================================ */
-
-#post-list .card .post-preview {
-  align-items: center;
-}
-
-#post-list .card .card-body {
-  height: auto !important;
-  padding: 0.75rem !important;
-}
-
-/* ============================================================
-   Post page — banner image max-height
+   Post page — banner image
    Theme default: .preview-img { aspect-ratio: 40/21; width: 100%; height: 100% }
    Selector: img.preview-img inside article .post-meta (post layout only)
    ============================================================ */
@@ -108,26 +93,38 @@ article .post-meta .preview-img {
 }
 
 /* ============================================================
-   Home post list — thumbnail size override
-   Theme default: .preview-img { aspect-ratio: 40/21; width: 100%; height: 100% }
+   Home post list — card layout: image left, text right
+   Overrides Bootstrap flex-md-row-reverse + col-md-* sizing
    ============================================================ */
 
-/* Desktop: fixed 80×80 square */
-@media (min-width: 769px) {
-  #post-list .card .preview-img {
-    flex: 0 0 80px !important;
-    width: 80px !important;
-    height: 80px !important;
-    aspect-ratio: unset !important;
-    align-self: center;
-    border-radius: 8px !important;
-  }
+#post-list .card .post-preview {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  flex-wrap: nowrap !important;
+  gap: 16px;
+}
 
-  /* Let the text column take the remaining space */
-  #post-list .card .post-preview > :not(.preview-img) {
-    flex: 1 1 auto !important;
-    max-width: 100% !important;
-  }
+#post-list .card .preview-img {
+  order: -1;
+  flex-shrink: 0 !important;
+  flex: none !important;
+  width: 80px !important;
+  height: 80px !important;
+  aspect-ratio: unset !important;
+  object-fit: contain !important;
+  border-radius: 8px !important;
+}
+
+#post-list .card .post-preview > :not(.preview-img) {
+  flex: 1 !important;
+  max-width: 100% !important;
+  width: auto !important;
+}
+
+#post-list .card .card-body {
+  height: auto !important;
+  padding: 0.75rem !important;
 }
 
 /* Mobile: 60×60 */
