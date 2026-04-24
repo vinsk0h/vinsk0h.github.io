@@ -74,6 +74,43 @@
   -webkit-box-orient: vertical;
 }
 
+/* ============================================================
+   Home post list — thumbnail size override
+   Theme default: .preview-img { aspect-ratio: 40/21; width: 100%; height: 100% }
+   ============================================================ */
+
+/* Desktop: fixed 80×80 square */
+@media (min-width: 769px) {
+  #post-list .card .preview-img {
+    flex: 0 0 80px !important;
+    width: 80px !important;
+    height: 80px !important;
+    aspect-ratio: unset !important;
+    align-self: center;
+    border-radius: 8px !important;
+  }
+
+  /* Let the text column take the remaining space */
+  #post-list .card .post-preview > :not(.preview-img) {
+    flex: 1 1 auto !important;
+    max-width: 100% !important;
+  }
+}
+
+/* Mobile: 60×60 */
+@media (max-width: 768px) {
+  #post-list .card .preview-img {
+    width: 60px !important;
+    height: 60px !important;
+    aspect-ratio: unset !important;
+    border-radius: 6px !important;
+  }
+}
+
+/* ============================================================
+   Writeup list (custom page) — image thumbnail + content
+   ============================================================ */
+
 /* Mobile: image stacks above content */
 @media (max-width: 768px) {
   .writeup-item {
