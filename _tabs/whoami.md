@@ -1,7 +1,9 @@
 ---
+layout: page
+title: Whoami
 icon: fas fa-user
+permalink: /whoami/
 order: 3
-tags: [TAG]     # TAG names should always be lowercase
 ---
 
 
