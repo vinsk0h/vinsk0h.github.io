@@ -94,7 +94,8 @@ article .post-meta .preview-img {
 
 /* ============================================================
    Home post list — card layout: image left, text right
-   Overrides Bootstrap flex-md-row-reverse + col-md-* sizing
+   HTML: .post-preview > div.col-md-5 > img  (no .preview-img on cards)
+         .post-preview > div.col-md-7 > div.card-body
    ============================================================ */
 
 #post-list .card .post-preview {
@@ -106,24 +107,30 @@ article .post-meta .preview-img {
   gap: 0 !important;
 }
 
-#post-list .card .preview-img {
-  order: -1;
-  flex-shrink: 0 !important;
-  flex: none !important;
-  width: 80px !important;
-  height: 80px !important;
-  aspect-ratio: unset !important;
-  object-fit: contain !important;
-  border-radius: 8px !important;
+/* Image container */
+#post-list .card .col-md-5 {
+  flex: 0 0 auto !important;
+  width: auto !important;
+  max-width: 100px !important;
+  padding: 0 !important;
   margin-right: 12px !important;
 }
 
-#post-list .card .post-preview > :not(.preview-img) {
-  flex: 1 !important;
-  max-width: 100% !important;
-  width: auto !important;
-  margin-left: 0 !important;
+/* Image itself */
+#post-list .card .col-md-5 img {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: contain !important;
+  display: block !important;
+  border-radius: 8px !important;
+}
+
+/* Text container */
+#post-list .card .col-md-7 {
+  flex: 1 1 auto !important;
   padding-left: 0 !important;
+  margin-left: 0 !important;
+  min-width: 0 !important;
 }
 
 #post-list .card .card-body {
@@ -131,13 +138,11 @@ article .post-meta .preview-img {
   padding: 0.75rem !important;
 }
 
-/* Mobile: 60×60 */
+/* Mobile */
 @media (max-width: 768px) {
-  #post-list .card .preview-img {
+  #post-list .card .col-md-5 img {
     width: 60px !important;
     height: 60px !important;
-    aspect-ratio: unset !important;
-    border-radius: 6px !important;
   }
 }
 
