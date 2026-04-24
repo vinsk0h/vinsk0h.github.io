@@ -110,13 +110,15 @@ article .post-meta .preview-img {
 /* Image container */
 #post-list .card .col-md-5 {
   flex: 0 0 auto !important;
-  width: auto !important;
-  max-width: 100px !important;
+  width: 80px !important;
+  max-width: 80px !important;
+  height: 80px !important;
   padding: 0 !important;
   margin-right: 12px !important;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
+  overflow: visible !important;
 }
 
 /* Image itself */
@@ -144,6 +146,12 @@ article .post-meta .preview-img {
 
 /* Mobile */
 @media (max-width: 768px) {
+  #post-list .card .col-md-5 {
+    width: 60px !important;
+    max-width: 60px !important;
+    height: 60px !important;
+  }
+
   #post-list .card .col-md-5 img {
     width: 60px !important;
     height: 60px !important;
