@@ -1,0 +1,48 @@
+{%- assign _post = include.post -%}
+{%- assign _src = _post.image.path | default: _post.image -%}
+
+{%- unless _src contains '//' -%}
+  {%- if _src -%}
+    {%- assign _src = _post.media_subpath | append: '/' | append: _src | replace: '//', '/' -%}
+  {%- endif -%}
+{%- endunless -%}
+
+{%- assign _alt = _post.image.alt | xml_escape | default: 'Preview Image' -%}
+{%- assign _body_col = '12' -%}
+
+<article class="card-wrapper card">
+  <a href="{{ _post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
+    {%- if _src -%}
+      <div class="col-md-5">
+        <img src="{{ _src }}" alt="{{ _alt }}">
+      </div>
+      {%- assign _body_col = '7' -%}
+    {%- endif -%}
+
+    <div class="col-md-{{ _body_col }}">
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">{{ _post.title }}</h1>
+
+        <div class="card-text content mt-0 mb-3">
+          {%- assign post = _post -%}
+          <p>{% include post-description.html %}</p>
+        </div>
+
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto">
+            <i class="far fa-calendar fa-fw me-1"></i>
+            {% include datetime.html date=_post.date lang=lang %}
+            {%- if _post.categories.size > 0 -%}
+              <i class="far fa-folder-open fa-fw me-1"></i>
+              <span class="categories">
+                {%- for _cat in _post.categories -%}
+                  {{ _cat }}{%- unless forloop.last -%},{%- endunless -%}
+                {%- endfor -%}
+              </span>
+            {%- endif -%}
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</article>
