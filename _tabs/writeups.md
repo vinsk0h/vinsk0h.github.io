@@ -6,16 +6,6 @@ permalink: /writeups/
 order: 2
 ---
 
-{% include lang.html %}
+<meta http-equiv="refresh" content="0; url=https://vinsk0h.gitbook.io/writeups">
 
-{% assign writeup_posts = site.posts | where_exp: "post", "post.categories contains 'Writeups'" | sort: 'date' | reverse %}
-
-{% if writeup_posts.size == 0 %}
-  <p>No writeups yet. Check back soon!</p>
-{% else %}
-  <div id="post-list" class="flex-grow-1 px-xl-1">
-    {% for post in writeup_posts %}
-      {% include post-card.html post=post %}
-    {% endfor %}
-  </div>
-{% endif %}
+<p>Redirect to the writeups... <a href="https://vinsk0h.gitbook.io/writeups">Click here if nothing happens</a>.</p>
